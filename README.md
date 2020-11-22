@@ -1,5 +1,4 @@
 # jdszr2-DataMasters
-repo zespołu DataMasters (zespół nr 3) 
 
 Projekt 1 - SQL.
 
